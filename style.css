@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Play', sans-serif;
+}
+
+body {
+    text-align: center;
+    background-image: url(https://images.unsplash.com/photo-1475274047050-1d0c0975c63e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1172&q=80);
+    background-size: cover;
+}
+
+.titulo {
+    margin: 15px;
+    color: #FFFF;
+}
+
+.label {
+    margin: 5px;
+    color: #FFFF;
+}
+
+input {
+    padding: 10px;
+    margin: 3px;
+}
+
+.botao {
+    background-color: #FFFF;
+    border-radius: 4px;
+    padding: 10px;
+    margin: 3px;
+}
+
+.apodInfoTitulo {
+    font-weight: 600;
+    margin: 15px;
+    color: #FFFF;
+}
+
+.apodInfo {
+    margin: 15px;
+    color: #FFFF;
+}
+
